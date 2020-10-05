@@ -22,7 +22,7 @@ npm i # this should install all dependencies.
 
 ## Roadmap
 - [x] About
-  - [x] About Opal
+  - [x] About Brainwash
   - [x] Update info
 - [ ] Retro Consoles
   - [ ] Atari
