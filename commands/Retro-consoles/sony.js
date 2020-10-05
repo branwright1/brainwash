@@ -2,9 +2,9 @@ const Discord = require("discord.js");
 
 module.exports = {
   name: "psx",
-    description: "Get some info about Opal",
-    category: "info",
-    usage: "about",
+    description: "Info about Sony PlayStation first console",
+    category: "retro consoles",
+    usage: "psx",
   run: async(client, message, args) => {
 
     const bot = new Discord.MessageEmbed()
