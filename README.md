@@ -1,5 +1,5 @@
 <p align="center">
-<img width="30%" src="https://cdn.discordapp.com/attachments/762263665676124160/762617373315694592/image0.jpg" />
+<img width="23%" src="https://cdn.discordapp.com/attachments/762263665676124160/762617373315694592/image0.jpg" />
 </p>
 
 ## How to get it?
