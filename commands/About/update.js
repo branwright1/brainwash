@@ -7,7 +7,7 @@ module.exports = {
     usage: "update",
   run: async(client, message, args) => {
     const update = new Discord.MessageEmbed()
-    .setColor("#AAC4C4")
+    .setColor("#f3ce4e")
     .setTitle("Upate: 1.0")	  
     .setDescription("- Added `about` command\n- Added `update` command")
     message.guild.channels.cache.get('762278680822022204').send(update);
