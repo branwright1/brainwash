@@ -1,11 +1,11 @@
 <p align="center">
-<img width="23%" src="https://cdn.discordapp.com/attachments/762263665676124160/762617373315694592/image0.jpg" />
+<img width="25%" src="https://cdn.discordapp.com/attachments/762263665676124160/762617373315694592/image0.jpg" />
 </p>
 
 ## How to get it?
 ```
-git clone https://github.com/branwright1/opal.git
-cd opal
+git clone https://github.com/branwright1/brainwash.git
+cd brainwash
 npm i # this should install all dependencies.
 ``` 
 ### Create config.json and fill it with this scheme.
