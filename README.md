@@ -30,20 +30,16 @@ npm i # this should install all dependencies.
   - [ ] Microsoft
   - [x] Sony
   - [ ] Sega
-  - [ ] PR with more
 - [ ] Retro Personal Computers
   - [x] Amiga
   - [ ] Apple
   - [ ] Comodore
   - [ ] IBM
   - [ ] MSX
-  - [ ] PR with more 
 - [ ] Retro Operating Systems
   - [x] UNIX
-  - [ ] UNIX-like
+  - [x] BSD
   - [x] Plan 9
-  - [ ] Solaris
-  - [ ] DOS
-  - [ ] FreeDOS
-  - [ ] Windows
-  - [ ] PR with More
+  - [x] Solaris
+  - [x] DOS
+  - [x] Windows 95
