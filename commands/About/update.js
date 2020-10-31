@@ -10,6 +10,6 @@ module.exports = {
     .setColor("#f3ce4e")
     .setTitle("Upate: 1.0")	  
     .setDescription("- Added `about` command\n- Added `update` command")
-    message.guild.channels.cache.get('762278680822022204').send(update);
+    message.guild.channels.cache.get('771138008136810506').send(update);
   }
 }

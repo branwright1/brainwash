@@ -32,7 +32,7 @@ npm i # this should install all dependencies.
   - [ ] Sega
   - [ ] PR with more
 - [ ] Retro Personal Computers
-  - [ ] Amiga
+  - [x] Amiga
   - [ ] Apple
   - [ ] Comodore
   - [ ] IBM
@@ -41,7 +41,7 @@ npm i # this should install all dependencies.
 - [ ] Retro Operating Systems
   - [x] UNIX
   - [ ] UNIX-like
-  - [ ] Plan 9
+  - [x] Plan 9
   - [ ] Solaris
   - [ ] DOS
   - [ ] FreeDOS
