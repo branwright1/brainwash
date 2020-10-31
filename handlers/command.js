@@ -3,8 +3,8 @@ const { readdirSync } = require("fs");
 const ascii = require("ascii-table");
 
 // Create a new Ascii table
-let table = new ascii("Commands");
-table.setHeading("Command", "Load status");
+let table = new ascii("Modules");
+table.setHeading("File name:", "Load status:");
 
 module.exports = (client) => {
     // Read every commands subfolder
@@ -20,9 +20,9 @@ module.exports = (client) => {
 
             if (pull.name) {
                 client.commands.set(pull.name, pull);
-                table.addRow(file, '✅');
+                table.addRow(file, 'loaded');
             } else {
-                table.addRow(file, `❌`);
+                table.addRow(file, `not loaded`);
                 continue;
             }
 
